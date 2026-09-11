@@ -1,0 +1,326 @@
+[
+  {
+    "country": "Australia",
+    "n": 171,
+    "price": 2.7522222222222235,
+    "wage": 16.389064327485393,
+    "minutes": 10.075824344431636,
+    "price_rank": 15,
+    "minutes_rank": 1
+  },
+  {
+    "country": "Italy",
+    "n": 15,
+    "price": 1.6206666666666671,
+    "wage": 8.194666666666667,
+    "minutes": 11.866254474454934,
+    "price_rank": 1,
+    "minutes_rank": 2
+  },
+  {
+    "country": "New Zealand",
+    "n": 35,
+    "price": 2.505142857142858,
+    "wage": 11.790285714285716,
+    "minutes": 12.748509668976883,
+    "price_rank": 9,
+    "minutes_rank": 3
+  },
+  {
+    "country": "Switzerland",
+    "n": 18,
+    "price": 5.408888888888889,
+    "wage": 22.53611111111111,
+    "minutes": 14.400591643042029,
+    "price_rank": 35,
+    "minutes_rank": 4
+  },
+  {
+    "country": "Netherlands",
+    "n": 73,
+    "price": 3.423561643835618,
+    "wage": 13.819315068493154,
+    "minutes": 14.864245992803406,
+    "price_rank": 23,
+    "minutes_rank": 5
+  },
+  {
+    "country": "Germany",
+    "n": 167,
+    "price": 3.3540718562874217,
+    "wage": 13.438383233532935,
+    "minutes": 14.975336532677407,
+    "price_rank": 22,
+    "minutes_rank": 6
+  },
+  {
+    "country": "Norway",
+    "n": 22,
+    "price": 4.231818181818181,
+    "wage": 16.39454545454545,
+    "minutes": 15.487412664966174,
+    "price_rank": 34,
+    "minutes_rank": 7
+  },
+  {
+    "country": "Belgium",
+    "n": 19,
+    "price": 3.547368421052632,
+    "wage": 13.500526315789473,
+    "minutes": 15.76546723324627,
+    "price_rank": 26,
+    "minutes_rank": 8
+  },
+  {
+    "country": "Ireland",
+    "n": 45,
+    "price": 3.442444444444446,
+    "wage": 12.945555555555558,
+    "minutes": 15.955025319715052,
+    "price_rank": 24,
+    "minutes_rank": 9
+  },
+  {
+    "country": "Canada",
+    "n": 130,
+    "price": 2.7691538461538427,
+    "wage": 10.261230769230764,
+    "minutes": 16.19193978829949,
+    "price_rank": 16,
+    "minutes_rank": 10
+  },
+  {
+    "country": "Finland",
+    "n": 16,
+    "price": 4.018750000000001,
+    "wage": 14.665625000000002,
+    "minutes": 16.44150862987428,
+    "price_rank": 32,
+    "minutes_rank": 11
+  },
+  {
+    "country": "UK",
+    "n": 595,
+    "price": 3.838218487394948,
+    "wage": 13.163378151260519,
+    "minutes": 17.49498545110505,
+    "price_rank": 30,
+    "minutes_rank": 12
+  },
+  {
+    "country": "USA",
+    "n": 600,
+    "price": 3.6623000000000085,
+    "wage": 12.279916666666681,
+    "minutes": 17.894095372525623,
+    "price_rank": 28,
+    "minutes_rank": 13
+  },
+  {
+    "country": "Sweden",
+    "n": 20,
+    "price": 3.883,
+    "wage": 12.787500000000001,
+    "minutes": 18.219354838709673,
+    "price_rank": 31,
+    "minutes_rank": 14
+  },
+  {
+    "country": "Israel",
+    "n": 14,
+    "price": 3.6921428571428576,
+    "wage": 11.75857142857143,
+    "minutes": 18.839752156481595,
+    "price_rank": 29,
+    "minutes_rank": 15
+  },
+  {
+    "country": "Spain",
+    "n": 30,
+    "price": 2.4246666666666656,
+    "wage": 7.677999999999998,
+    "minutes": 18.94764261526439,
+    "price_rank": 8,
+    "minutes_rank": 16
+  },
+  {
+    "country": "Austria",
+    "n": 13,
+    "price": 3.557692307692307,
+    "wage": 11.213076923076919,
+    "minutes": 19.036838855731634,
+    "price_rank": 27,
+    "minutes_rank": 17
+  },
+  {
+    "country": "Denmark",
+    "n": 36,
+    "price": 5.4141666666666675,
+    "wage": 16.741666666666667,
+    "minutes": 19.40368342458935,
+    "price_rank": 36,
+    "minutes_rank": 18
+  },
+  {
+    "country": "France",
+    "n": 31,
+    "price": 4.112258064516129,
+    "wage": 11.611290322580645,
+    "minutes": 21.24961800250035,
+    "price_rank": 33,
+    "minutes_rank": 19
+  },
+  {
+    "country": "Singapore",
+    "n": 20,
+    "price": 3.446999999999999,
+    "wage": 8.205499999999997,
+    "minutes": 25.205045396380477,
+    "price_rank": 25,
+    "minutes_rank": 20
+  },
+  {
+    "country": "Slovakia",
+    "n": 10,
+    "price": 2.7049999999999996,
+    "wage": 6.4239999999999995,
+    "minutes": 25.264632627646325,
+    "price_rank": 11,
+    "minutes_rank": 21
+  },
+  {
+    "country": "Czechia",
+    "n": 67,
+    "price": 2.7910447761194015,
+    "wage": 5.901194029850748,
+    "minutes": 28.377763164550537,
+    "price_rank": 17,
+    "minutes_rank": 22
+  },
+  {
+    "country": "Poland",
+    "n": 100,
+    "price": 3.1754000000000024,
+    "wage": 6.475199999999998,
+    "minutes": 29.423647146034128,
+    "price_rank": 21,
+    "minutes_rank": 23
+  },
+  {
+    "country": "Portugal",
+    "n": 13,
+    "price": 2.886923076923077,
+    "wage": 5.782307692307692,
+    "minutes": 29.956099507782362,
+    "price_rank": 19,
+    "minutes_rank": 24
+  },
+  {
+    "country": "Hungary",
+    "n": 17,
+    "price": 2.885882352941177,
+    "wage": 5.702352941176471,
+    "minutes": 30.365174334639985,
+    "price_rank": 18,
+    "minutes_rank": 25
+  },
+  {
+    "country": "Greece",
+    "n": 23,
+    "price": 2.743478260869565,
+    "wage": 4.631304347826086,
+    "minutes": 35.54262110401803,
+    "price_rank": 14,
+    "minutes_rank": 26
+  },
+  {
+    "country": "Romania",
+    "n": 17,
+    "price": 2.540000000000001,
+    "wage": 3.7405882352941178,
+    "minutes": 40.742255071552144,
+    "price_rank": 10,
+    "minutes_rank": 27
+  },
+  {
+    "country": "Chile",
+    "n": 10,
+    "price": 2.7340000000000004,
+    "wage": 3.3560000000000003,
+    "minutes": 48.87961859356377,
+    "price_rank": 13,
+    "minutes_rank": 28
+  },
+  {
+    "country": "Russia",
+    "n": 14,
+    "price": 2.3814285714285712,
+    "wage": 2.7357142857142853,
+    "minutes": 52.22976501305483,
+    "price_rank": 6,
+    "minutes_rank": 29
+  },
+  {
+    "country": "Brazil",
+    "n": 14,
+    "price": 2.149285714285714,
+    "wage": 2.2685714285714287,
+    "minutes": 56.84508816120906,
+    "price_rank": 4,
+    "minutes_rank": 30
+  },
+  {
+    "country": "Argentina",
+    "n": 22,
+    "price": 2.397727272727273,
+    "wage": 2.3868181818181817,
+    "minutes": 60.274233479337276,
+    "price_rank": 7,
+    "minutes_rank": 31
+  },
+  {
+    "country": "Malaysia",
+    "n": 18,
+    "price": 2.3288888888888897,
+    "wage": 2.081111111111111,
+    "minutes": 67.14361986118529,
+    "price_rank": 5,
+    "minutes_rank": 32
+  },
+  {
+    "country": "Turkey",
+    "n": 10,
+    "price": 3.056,
+    "wage": 2.5100000000000002,
+    "minutes": 73.05179282868525,
+    "price_rank": 20,
+    "minutes_rank": 33
+  },
+  {
+    "country": "Mexico",
+    "n": 24,
+    "price": 2.714583333333335,
+    "wage": 2.185,
+    "minutes": 74.54233409610988,
+    "price_rank": 12,
+    "minutes_rank": 34
+  },
+  {
+    "country": "Philippines",
+    "n": 11,
+    "price": 1.707272727272727,
+    "wage": 0.9263636363636365,
+    "minutes": 110.5789990186457,
+    "price_rank": 2,
+    "minutes_rank": 35
+  },
+  {
+    "country": "India",
+    "n": 11,
+    "price": 1.9618181818181817,
+    "wage": 0.6836363636363637,
+    "minutes": 172.18085106382975,
+    "price_rank": 3,
+    "minutes_rank": 36
+  }
+]

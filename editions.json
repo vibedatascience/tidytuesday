@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-09-08",
+    "week": 36,
+    "title": "A cappuccino takes longer to earn in India than in Switzerland",
+    "dataset": "The Cappuccino Index",
+    "summary": "Compare cappuccino prices and barista pay across 36 countries, using responses from caf\u00e9s with reported prices and wages.",
+    "selected": "01-rank-crossings",
+    "tags": [
+      "Coffee",
+      "Work",
+      "Rankings"
+    ],
+    "references": [
+      {
+        "date": "2024-07-16",
+        "title": "English Women's Football",
+        "signal": "Directly labelled rankings; one focal story against muted context.",
+        "url": "https://github.com/nrennie/tidytuesday/tree/main/2024/2024-07-16"
+      },
+      {
+        "date": "2025-03-11",
+        "title": "Pixar Films",
+        "signal": "Horizontal comparisons with a clear shared scale and an explanatory headline.",
+        "url": "https://github.com/nrennie/tidytuesday/tree/main/2025/2025-03-11"
+      },
+      {
+        "date": "2026-04-21",
+        "title": "Global Health Spending",
+        "signal": "Repeated country panels with a common visual encoding.",
+        "url": "https://github.com/nrennie/tidytuesday/tree/main/2026/2026-04-21"
+      }
+    ]
+  }
+]
