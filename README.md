@@ -29,7 +29,7 @@ python3 -m http.server 8766 --directory docs
 
 Open http://localhost:8766. Input CSV files are versioned, so rebuilding never silently switches to a different upstream dataset. The website has no frontend framework, remote script dependency, API token, or analytics.
 
-A push to `main` runs the analysis, renders the charts, builds the website, tests it, and publishes `docs/` with GitHub Pages. Pull requests run the same build and tests without publishing.
+GitHub Pages publishes the committed `docs/` directory from `main`. Run the reproduction commands and checks before pushing changes. GitHub Actions is currently disabled at the account level, so builds and tests are local; publication does not automatically generate new plots. An optional build-and-deploy workflow is included for later use. To use it after Actions is enabled, change the Pages source to GitHub Actions. Pull requests will then run the same build and tests without publishing.
 
 ## Workflow for the next week
 
