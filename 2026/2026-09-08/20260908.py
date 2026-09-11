@@ -1,7 +1,6 @@
 """TidyTuesday 2026-09-08: cappuccino prices and barista pay.
 
 Run this script to validate the source data and reproduce 20260908.png.
-Design reference: nrennie/tidytuesday, 2024-07-16 (football rankings).
 """
 import csv
 import math
@@ -70,7 +69,7 @@ def canvas(title, subtitle, height=12):
     fig.text(.925, .958, 'NO. 36', ha='right', size=9, color=MUTED)
     fig.text(.075, .91, title, size=34, fontfamily='DejaVu Serif', va='top', linespacing=1.06)
     fig.text(.075, .804, subtitle, size=10, va='top', linespacing=1.6)
-    fig.text(.075, .032, 'Data: James Hoffmann · TidyTuesday, 08 Sep 2026. Tips excluded. Voluntary café sample.\nOriginal graphic: vibedatascience. Design references and methodology in the repository.',
+    fig.text(.075, .032, 'Data: James Hoffmann · TidyTuesday, 08 Sep 2026. Tips excluded. Voluntary café sample.\nGraphic: vibedatascience. Calculation and source notes in the weekly README.',
              size=7, linespacing=1.6, color=MUTED)
     return fig
 

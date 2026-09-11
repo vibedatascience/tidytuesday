@@ -8,4 +8,4 @@ The chart compares mean cup-price ranks with earning-time ranks for the 36 count
 
 The data are voluntary café responses, not representative national estimates. Tips are excluded. Rank gaps show order, not differences in magnitude.
 
-Data: James Hoffmann; curated for TidyTuesday by Filip Reierson. Design inspiration: Nicola Rennie's [2024-07-16 football rankings](https://github.com/nrennie/tidytuesday/tree/main/2024/2024-07-16), using direct labels and selective colour ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Original chart and code by vibedatascience.
+Data: James Hoffmann; curated for TidyTuesday by Filip Reierson. Chart and code: vibedatascience.
